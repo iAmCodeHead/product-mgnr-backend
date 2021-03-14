@@ -70,8 +70,8 @@ Open browser and enter url : http://localhost:3000/ and then you should see :
 }
 ```
 ## **Documentation**
-Documentation can be found here
+Documentation can be found *[here](https://documenter.getpostman.com/view/5960688/Tz5qaH9z)
 ```
 https://documenter.getpostman.com/view/5960688/Tz5qaH9z
-
+```
 Let's go rock the node world :grin: :grin: :grin:
