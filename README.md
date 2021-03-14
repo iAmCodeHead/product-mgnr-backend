@@ -1,5 +1,5 @@
-# **simple-node-boilerplate**
-A simple node boilerplate using express.js, mongodb with the help of mongoose, http-server, JWT (for authentication) and etc.
+# **simple product mgt. api**
+A simple product management app using express.js, mongodb with the help of mongoose, http-server, JWT (for authentication) and etc.
 
 ## **Getting Started**
 Before getting started with the project please follow the below steps.
@@ -41,7 +41,7 @@ git clone https://github.com/ahari884/simple-node-boilerplate.git
 ```
 and cd to simple-node-boilerplate
 ```
-cd simple-node-boilerplate
+cd product-mgnr-backend
 ```
 
 **Step 2** : install node modules needed
@@ -53,7 +53,7 @@ npm install
 ## **Running app**
 Just run
 ```
-node index.js
+npm test
 ```
 It will show the message that
 
