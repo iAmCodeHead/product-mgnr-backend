@@ -37,7 +37,7 @@ Before going to install and run the project, there are some things need to know.
 ### **Installation**
 **Step 1** : Clone the directory withe the command
 ```
-git clone https://github.com/ahari884/simple-node-boilerplate.git
+git clone https://github.com/iAmCodeHead/product-mgnr-backend.git
 ```
 and cd to simple-node-boilerplate
 ```
@@ -69,6 +69,9 @@ Open browser and enter url : http://localhost:3000/ and then you should see :
     "success": true
 }
 ```
-Ooops done with the runnig app :relaxed:
+## **Documentation**
+Documentation can be found here
+```
+https://documenter.getpostman.com/view/5960688/Tz5qaH9z
 
 Let's go rock the node world :grin: :grin: :grin:
