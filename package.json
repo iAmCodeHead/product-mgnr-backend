@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "nodemon index.js",
-    "start": "webpack-dev-server --mode development --hot --open --port $PORT",
-    "build": "npm i -dev && webpack --mode production",
-    "heroku-postbuild": "npm build"
+    "start": "node index.js"
   },
   "keywords": [
     "node",

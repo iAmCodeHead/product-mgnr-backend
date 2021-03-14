@@ -7,5 +7,6 @@ const app = express();
 
 const http = require('http').createServer(app);
 
-http.listen(config.PORT);
-console.log('App running at http://' + config.HOST + ':' + config.PORT + '/');
+http.listen(config.PORT, () => {
+    console.log('App running at http://' + config.HOST + ':' + config.PORT + '/');
+});
