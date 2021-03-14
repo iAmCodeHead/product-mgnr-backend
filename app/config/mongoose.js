@@ -5,7 +5,7 @@ const config = require('./config');
 module.exports = function () {
     mongoose.Promise = global.Promise;
     db = mongoose.connect(config.dbUrl, { useNewUrlParser: true, useCreateIndex: true, useUnifiedTopology: true }).then(function () {
-        console.log('Connected to database successfully', config.dbUrl);
+        console.log('Connected to database successfully');
     }, function (err) {
         console.log('Database connection timeout error');
     });
