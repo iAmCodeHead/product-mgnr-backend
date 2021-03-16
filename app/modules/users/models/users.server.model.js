@@ -74,8 +74,8 @@ const UserSchema = new Schema({
         required: true
     },
     location: {
-        type: String,
-        required: true
+        type: { type: String },
+        coordinates: [Number],
     },
     username: {
         type: String,
